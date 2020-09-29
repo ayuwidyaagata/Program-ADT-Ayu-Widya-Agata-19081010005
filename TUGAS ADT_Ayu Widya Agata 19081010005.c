@@ -4,7 +4,7 @@
 // program data kependudukan
 typedef struct
 {
-		char Alamat[20];
+	char Alamat[20];
         char RT[5];
         char RW[5];
         char Kel[30];
